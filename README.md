@@ -1,5 +1,5 @@
-# aligned_oblique_in_rnns
-Repository for code of paper "Aligned and oblique dynamics in recurrent neural networks", Schuessler et al., 2023.
+# Aligned and oblique dynamics in recurrent neural networks
+Repository for code of paper [Aligned and oblique dynamics in recurrent neural networks, Schuessler et al., eLife, 2024](https://elifesciences.org/articles/93060).
 The code should enable to reproduce all results. 
 
 
